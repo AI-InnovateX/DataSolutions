@@ -1,0 +1,462 @@
+{
+    "product": "DataVisual (Web Application)",
+    "roadmapItems": [
+      {
+        "title": "Initial Launch of DataVisual",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2023-03-15T00:00:00Z",
+        "endDate": "2023-03-16T00:00:00Z",
+        "style": "blue",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Launch of DataVisual with core features for visualizing complex data sets.",
+        "children": [
+          {
+            "title": "Customizable Dashboards",
+            "subType": "Feature",
+            "description": "Dashboards that users can customize with a variety of widgets and layouts.",
+            "children": [
+              {
+                "title": "Resolved issues with dashboard widget alignment.",
+                "subType": "Bug Fix",
+                "description": "Fixed alignment issues in the dashboard that affected widget placement."
+              },
+              {
+                "title": "Added new layout options for dashboards.",
+                "subType": "Enhancement",
+                "description": "Introduced additional layout configurations to enhance dashboard customization."
+              },
+              {
+                "title": "Improved performance of dashboard loading times.",
+                "subType": "Enhancement",
+                "description": "Optimized dashboard components to reduce loading times and enhance user experience."
+              }
+            ]
+          },
+          {
+            "title": "Drag-and-Drop Interface",
+            "subType": "Feature",
+            "description": "An intuitive drag-and-drop interface that simplifies data visualization.",
+            "children": [
+              {
+                "title": "Fixed bugs in the drag-and-drop functionality.",
+                "subType": "Bug Fix",
+                "description": "Corrected errors in the drag-and-drop mechanics that hindered user interactions."
+              },
+              {
+                "title": "Enhanced drag-and-drop responsiveness.",
+                "subType": "Enhancement",
+                "description": "Improved the responsiveness of the drag-and-drop interface to facilitate smoother user interactions."
+              },
+              {
+                "title": "Introduced new drag-and-drop customization options.",
+                "subType": "Enhancement",
+                "description": "Added new customization features to the drag-and-drop interface, allowing for more versatile data visualization setups."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Real-time Data Updates and Notifications",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2023-06-20T00:00:00Z",
+        "endDate": "2023-06-21T00:00:00Z",
+        "style": "green",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "This release enhances real-time data updates and introduces a new notification system.",
+        "children": [
+          {
+            "title": "Real-time Data Updates",
+            "subType": "Feature",
+            "description": "Updates data displays in real-time, ensuring users see the most current data.",
+            "children": [
+              {
+                "title": "Addressed latency issues in real-time updates.",
+                "subType": "Bug Fix",
+                "description": "Improved the speed of real-time updates to minimize data display delays."
+              },
+              {
+                "title": "Improved accuracy of real-time data.",
+                "subType": "Enhancement",
+                "description": "Enhanced the precision of data displayed in real-time, ensuring higher data reliability."
+              },
+              {
+                "title": "Added support for more data sources in real-time updates.",
+                "subType": "Enhancement",
+                "description": "Expanded the range of data sources compatible with real-time updates to increase the versatility of data feeds."
+              }
+            ]
+          },
+          {
+            "title": "Notification System",
+            "subType": "Feature",
+            "description": "A new system to notify users of important changes or updates within their data sets.",
+            "children": [
+              {
+                "title": "Fixed bugs in notification delivery.",
+                "subType": "Bug Fix",
+                "description": "Resolved issues that were preventing notifications from reaching users promptly."
+              },
+              {
+                "title": "Enhanced user interface for notification settings.",
+                "subType": "Enhancement",
+                "description": "Redesigned the notification settings interface for better user experience."
+              },
+              {
+                "title": "Added support for push notifications.",
+                "subType": "Enhancement",
+                "description": "Introduced push notifications to keep users informed about important events."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Security and User Management",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2024-01-10T00:00:00Z",
+        "endDate": "2024-01-11T00:00:00Z",
+        "style": "red",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Update focused on enhancing security features and user management capabilities.",
+        "children": [
+          {
+            "title": "User Authentication and Authorization",
+            "subType": "Feature",
+            "description": "Strengthening security with better user authentication and access control.",
+            "children": [
+              {
+                "title": "Resolved issues with user login and access control.",
+                "subType": "Bug Fix",
+                "description": "Fixed bugs affecting user login procedures and access controls."
+              },
+              {
+                "title": "Added support for multi-factor authentication.",
+                "subType": "Enhancement",
+                "description": "Implemented multi-factor authentication to improve security measures."
+              },
+              {
+                "title": "Improved user role management.",
+                "subType": "Enhancement",
+                "description": "Enhanced the management of user roles to provide better control and flexibility."
+              }
+            ]
+          },
+          {
+            "title": "Data Security",
+            "subType": "Feature",
+            "description": "Improving the security protocols to safeguard user data effectively.",
+            "children": [
+              {
+                "title": "Fixed vulnerabilities in data encryption.",
+                "subType": "Bug Fix",
+                "description": "Addressed and rectified vulnerabilities found in the data encryption methods."
+              },
+              {
+                "title": "Upgraded security protocols for data storage.",
+                "subType": "Enhancement",
+                "description": "Upgraded existing security protocols to enhance the security of stored data."
+              },
+              {
+                "title": "Implemented automatic security updates.",
+                "subType": "Enhancement",
+                "description": "Initiated automatic updates for security measures to ensure up-to-date protection."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Performance Enhancements and Scalability",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2024-05-15T00:00:00Z",
+        "endDate": "2024-05-16T00:00:00Z",
+        "style": "purple",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Release focused on optimizing performance and enhancing scalability.",
+        "children": [
+          {
+            "title": "Performance Optimization",
+            "subType": "Feature",
+            "description": "Optimizing application performance to handle complex data sets more efficiently.",
+            "children": [
+              {
+                "title": "Fixed issues causing slow page load times.",
+                "subType": "Bug Fix",
+                "description": "Resolved issues that were causing delays in page loading across the application."
+              },
+              {
+                "title": "Improved data processing speed.",
+                "subType": "Enhancement",
+                "description": "Increased the speed of data processing to facilitate faster data analysis and visualization."
+              },
+              {
+                "title": "Optimized database queries for better performance.",
+                "subType": "Enhancement",
+                "description": "Optimized database queries to reduce load times and improve efficiency."
+              }
+            ]
+          },
+          {
+            "title": "Scalability Enhancements",
+            "subType": "Feature",
+            "description": "Enhancements to ensure the application scales effectively during peak usage.",
+            "children": [
+              {
+                "title": "Addressed issues with scaling under high traffic.",
+                "subType": "Bug Fix",
+                "description": "Fixed scalability issues that occurred during periods of high user traffic."
+              },
+              {
+                "title": "Implemented auto-scaling features.",
+                "subType": "Enhancement",
+                "description": "Introduced auto-scaling capabilities to dynamically handle changes in load."
+              },
+              {
+                "title": "Enhanced load balancing capabilities.",
+                "subType": "Enhancement",
+                "description": "Improved the load balancing techniques to ensure smooth operation during high demand."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "User Experience Improvements",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2024-09-10T00:00:00Z",
+        "endDate": "2024-09-11T00:00:00Z",
+        "style": "teal",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Enhancements focused on improving user experience and feedback integration.",
+        "children": [
+          {
+            "title": "User Interface Redesign",
+            "subType": "Feature",
+            "description": "Redesigning the user interface for better accessibility and usability.",
+            "children": [
+              {
+                "title": "Fixed inconsistencies in the user interface.",
+                "subType": "Bug Fix",
+                "description": "Resolved various inconsistencies found in the UI."
+              },
+              {
+                "title": "Redesigned the UI for better accessibility.",
+                "subType": "Enhancement",
+                "description": "Improved the UI design to enhance accessibility and user experience."
+              },
+              {
+                "title": "Added new themes and customization options.",
+                "subType": "Enhancement",
+                "description": "Introduced new themes and customization options for better personalization."
+              }
+            ]
+          },
+          {
+            "title": "User Feedback Integration",
+            "subType": "Feature",
+            "description": "Integrating user feedback into the product to better meet user needs.",
+            "children": [
+              {
+                "title": "Resolved issues reported by users.",
+                "subType": "Bug Fix",
+                "description": "Addressed and fixed issues reported through user feedback."
+              },
+              {
+                "title": "Implemented user-requested features.",
+                "subType": "Enhancement",
+                "description": "Added new features based on user requests to improve functionality."
+              },
+              {
+                "title": "Improved feedback collection process.",
+                "subType": "Enhancement",
+                "description": "Enhanced the process for collecting and analyzing user feedback."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Data Visualization Enhancements",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2025-01-15T00:00:00Z",
+        "endDate": "2025-01-16T00:00:00Z",
+        "style": "orange",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Enhancements focused on improving data visualization capabilities.",
+        "children": [
+          {
+            "title": "New Chart Types",
+            "subType": "Feature",
+            "description": "Introducing new chart types for more versatile data visualization.",
+            "children": [
+              {
+                "title": "Fixed rendering issues with new charts.",
+                "subType": "Bug Fix",
+                "description": "Resolved rendering issues encountered with the newly introduced charts."
+              },
+              {
+                "title": "Added support for heatmaps and tree maps.",
+                "subType": "Enhancement",
+                "description": "Introduced support for heatmaps and tree maps to expand visualization options."
+              },
+              {
+                "title": "Improved interactivity of existing charts.",
+                "subType": "Enhancement",
+                "description": "Enhanced the interactivity features of existing charts to improve user engagement."
+              }
+            ]
+          },
+          {
+            "title": "Advanced Filtering Options",
+            "subType": "Feature",
+            "description": "Adding advanced filtering options to refine data visualization.",
+            "children": [
+              {
+                "title": "Fixed bugs in filter functionality.",
+                "subType": "Bug Fix",
+                "description": "Resolved bugs affecting the functionality of data filters."
+              },
+              {
+                "title": "Added multi-level filtering options.",
+                "subType": "Enhancement",
+                "description": "Introduced multi-level filtering options to allow for more detailed data analysis."
+              },
+              {
+                "title": "Enhanced filter performance for large datasets.",
+                "subType": "Enhancement",
+                "description": "Improved the performance of data filters to handle large datasets more efficiently."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Integration and API Improvements",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2025-05-10T00:00:00Z",
+        "endDate": "2025-05-11T00:00:00Z",
+        "style": "blue",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Enhancements focused on improving integration capabilities and API performance.",
+        "children": [
+          {
+            "title": "Third-party Integrations",
+            "subType": "Feature",
+            "description": "Enhancing integrations with third-party services for better data compatibility.",
+            "children": [
+              {
+                "title": "Fixed issues with integrating external APIs.",
+                "subType": "Bug Fix",
+                "description": "Resolved issues that were causing problems with external API integrations."
+              },
+              {
+                "title": "Added support for new data sources.",
+                "subType": "Enhancement",
+                "description": "Included support for additional data sources to increase versatility."
+              },
+              {
+                "title": "Improved integration documentation.",
+                "subType": "Enhancement",
+                "description": "Enhanced the documentation for third-party integrations to assist developers."
+              }
+            ]
+          },
+          {
+            "title": "API Enhancements",
+            "subType": "Feature",
+            "description": "Improving the API for better performance and usability.",
+            "children": [
+              {
+                "title": "Addressed issues with API rate limits.",
+                "subType": "Bug Fix",
+                "description": "Fixed issues related to API rate limits that were affecting performance."
+              },
+              {
+                "title": "Added new API endpoints for data manipulation.",
+                "subType": "Enhancement",
+                "description": "Introduced new API endpoints to provide more options for data manipulation."
+              },
+              {
+                "title": "Improved API response times.",
+                "subType": "Enhancement",
+                "description": "Enhanced the API to reduce response times and improve performance."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Collaboration Tools",
+        "type": "Release",
+        "subType": "Release",
+        "startDate": "2025-09-15T00:00:00Z",
+        "endDate": "2025-09-16T00:00:00Z",
+        "style": "green",
+        "source": "Internal",
+        "product": "DataVisual (Web Application)",
+        "description": "Introducing new tools to enhance collaboration and data sharing capabilities.",
+        "children": [
+          {
+            "title": "Real-time Collaboration",
+            "subType": "Feature",
+            "description": "Enabling real-time collaboration on data visualizations.",
+            "children": [
+              {
+                "title": "Fixed synchronization issues in collaborative editing.",
+                "subType": "Bug Fix",
+                "description": "Resolved issues causing synchronization problems during collaborative editing."
+              },
+              {
+                "title": "Improved real-time editing performance.",
+                "subType": "Enhancement",
+                "description": "Enhanced the performance of real-time editing to provide a smoother experience."
+              },
+              {
+                "title": "Added version control for collaborative projects.",
+                "subType": "Enhancement",
+                "description": "Introduced version control features to track changes in collaborative projects."
+              }
+            ]
+          },
+          {
+            "title": "Sharing and Exporting",
+            "subType": "Feature",
+            "description": "Enhancing the tools for sharing and exporting data visualizations.",
+            "children": [
+              {
+                "title": "Resolved issues with exporting data visualizations.",
+                "subType": "Bug Fix",
+                "description": "Fixed problems encountered when exporting data visualizations."
+              },
+              {
+                "title": "Added more export formats and options.",
+                "subType": "Enhancement",
+                "description": "Introduced additional formats and options for exporting data visualizations."
+              },
+              {
+                "title": "Improved sharing settings and permissions.",
+                "subType": "Enhancement",
+                "description": "Enhanced the settings and permissions for sharing data visualizations."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

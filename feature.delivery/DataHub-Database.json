@@ -1,0 +1,392 @@
+{
+    "product": "DataHub (Database)",
+    "roadmapItems": [
+        {
+            "title": "Initial Launch of DataHub",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2023-08-19T00:00:00",
+            "endDate": "2023-08-21T00:00:00",
+            "style": "blue",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "The initial launch of DataHub with key features.",
+            "children": [
+                {
+                    "title": "Advanced Analytics",
+                    "subType": "Feature",
+                    "description": "Introduction of advanced analytics capabilities.",
+                    "children": [
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        },
+                        {
+                            "title": "Fixed issue with data visualization rendering incorrectly.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed issue with data visualization rendering incorrectly."
+                        }
+                    ]
+                },
+                {
+                    "title": "Real-time Data Processing",
+                    "subType": "Feature",
+                    "description": "Enhancement to support real-time data processing and streaming.",
+                    "children": [
+                        {
+                            "title": "Resolved latency issues in real-time data updates.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved latency issues in real-time data updates."
+                        },
+                        {
+                            "title": "Resolved latency issues in real-time data updates.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved latency issues in real-time data updates."
+                        },
+                        {
+                            "title": "Resolved latency issues in real-time data updates.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved latency issues in real-time data updates."
+                        },
+                        {
+                            "title": "Resolved latency issues in real-time data updates.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved latency issues in real-time data updates."
+                        },
+                        {
+                            "title": "Resolved latency issues in real-time data updates.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved latency issues in real-time data updates."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Security and Compliance Update",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2023-04-09T00:00:00",
+            "endDate": "2023-04-10T00:00:00",
+            "style": "red",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "Update focusing on security and compliance improvements.",
+            "children": [
+                {
+                    "title": "High-level Security Protocols",
+                    "subType": "Feature",
+                    "description": "Implementation of advanced security measures.",
+                    "children": [
+                        {
+                            "title": "Addressed vulnerability in data encryption module.",
+                            "subType": "Bug Fix",
+                            "description": "Addressed vulnerability in data encryption module."
+                        }
+                    ]
+                },
+                {
+                    "title": "Compliance Reporting",
+                    "subType": "Feature",
+                    "description": "Tools and reports for compliance management.",
+                    "children": [
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        },
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        },
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        },
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        },
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        },
+                        {
+                            "title": "Fixed bugs in automated compliance report generation.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in automated compliance report generation."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Performance Optimization",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2023-11-28T00:00:00",
+            "endDate": "2023-11-30T00:00:00",
+            "style": "green",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "Updates focused on improving performance.",
+            "children": [
+                {
+                    "title": "Database Performance Tuning",
+                    "subType": "Feature",
+                    "description": "Enhancements for better database performance.",
+                    "children": [
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        },
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        },
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        },
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        },
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        },
+                        {
+                            "title": "Resolved slow query execution times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved slow query execution times."
+                        }
+                    ]
+                },
+                {
+                    "title": "Scalability Enhancements",
+                    "subType": "Feature",
+                    "description": "Enhancements to improve scalability.",
+                    "children": [
+                        {
+                            "title": "Fixed bugs related to scaling out database clusters.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs related to scaling out database clusters."
+                        },
+                        {
+                            "title": "Fixed bugs related to scaling out database clusters.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs related to scaling out database clusters."
+                        },
+                        {
+                            "title": "Fixed bugs related to scaling out database clusters.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs related to scaling out database clusters."
+                        },
+                        {
+                            "title": "Fixed bugs related to scaling out database clusters.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs related to scaling out database clusters."
+                        },
+                        {
+                            "title": "Fixed bugs related to scaling out database clusters.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs related to scaling out database clusters."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "User Experience Improvements",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2023-08-12T00:00:00",
+            "endDate": "2023-08-13T00:00:00",
+            "style": "purple",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "Updates to enhance user experience.",
+            "children": [
+                {
+                    "title": "User Interface Overhaul",
+                    "subType": "Feature",
+                    "description": "Redesign of the user interface.",
+                    "children": [
+                        {
+                            "title": "Resolved layout issues on various screen sizes.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved layout issues on various screen sizes."
+                        },
+                        {
+                            "title": "Resolved layout issues on various screen sizes.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved layout issues on various screen sizes."
+                        }
+                    ]
+                },
+                {
+                    "title": "User Feedback Integration",
+                    "subType": "Feature",
+                    "description": "Integrating user feedback into the product.",
+                    "children": [
+                        {
+                            "title": "Fixed bugs reported by users in feedback.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs reported by users in feedback."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data Integration and Connectivity",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2023-05-20T00:00:00",
+            "endDate": "2023-05-22T00:00:00",
+            "style": "teal",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "Updates focused on data integration and connectivity.",
+            "children": [
+                {
+                    "title": "API Enhancements",
+                    "subType": "Feature",
+                    "description": "Enhancements to the API for better data integration.",
+                    "children": [
+                        {
+                            "title": "Resolved issues with API response times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved issues with API response times."
+                        },
+                        {
+                            "title": "Resolved issues with API response times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved issues with API response times."
+                        },
+                        {
+                            "title": "Resolved issues with API response times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved issues with API response times."
+                        },
+                        {
+                            "title": "Resolved issues with API response times.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved issues with API response times."
+                        }
+                    ]
+                },
+                {
+                    "title": "Third-party Integrations",
+                    "subType": "Feature",
+                    "description": "Improved integration capabilities.",
+                    "children": [
+                        {
+                            "title": "Fixed bugs in integrations with external data sources.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed bugs in integrations with external data sources."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data Integration and Connectivity",
+            "type": "Release",
+            "subType": "Release",
+            "startDate": "2025-07-10T00:00:00",
+            "endDate": "2025-03-04T00:00:00",
+            "style": "blue",
+            "source": "Internal",
+            "product": "DataHub (Database)",
+            "description": "Enhancements to data integration and connectivity.",
+            "children": [
+                {
+                    "title": "API Enhancements",
+                    "subType": "Feature",
+                    "description": "Improvements to API functionality.",
+                    "children": [
+                        {
+                            "title": "Resolved issues with API response times.",
+                            "subType": "Bug Fix",
+                            "description": "Fixed slow response times in the API."
+                        },
+                        {
+                            "title": "Fixed authentication errors in API endpoints.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved authentication issues in API endpoints."
+                        },
+                        {
+                            "title": "Added new API endpoints for advanced data manipulation.",
+                            "subType": "Enhancement",
+                            "description": "Introduced new API endpoints for better data manipulation."
+                        },
+                        {
+                            "title": "Improved API documentation for developers.",
+                            "subType": "Enhancement",
+                            "description": "Enhanced API documentation to assist developers."
+                        }
+                    ]
+                },
+                {
+                    "title": "Third-party Integrations",
+                    "subType": "Feature",
+                    "description": "Enhancements for better third-party integrations.",
+                    "children": [
+                        {
+                            "title": "Fixed bugs in integrations with external data sources.",
+                            "subType": "Bug Fix",
+                            "description": "Resolved issues with third-party data source integrations."
+                        },
+                        {
+                            "title": "Added support for new third-party data connectors.",
+                            "subType": "Enhancement",
+                            "description": "Included support for additional third-party data connectors."
+                        },
+                        {
+                            "title": "Enhanced integration capabilities for existing connectors.",
+                            "subType": "Enhancement",
+                            "description": "Improved capabilities for integrating existing connectors."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
